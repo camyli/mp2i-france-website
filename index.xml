@@ -1,0 +1,504 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bienvenue sur le site des MP2I on Prépas MP2I</title>
+		<link>https://ajayat.github.io/mp2i-france-website/</link>
+		<description>Recent content in Bienvenue sur le site des MP2I on Prépas MP2I</description>
+		<generator>Hugo 0.91.0 -- gohugo.io</generator>
+		<language>fr-FR</language>
+		<copyright>MP2I — All rights reserved.</copyright>
+		<lastBuildDate>Mon, 20 Dec 2021 00:08:50 +0100</lastBuildDate>
+		<atom:link href="https://ajayat.github.io/mp2i-france-website/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Ressources</title>
+			<link>https://ajayat.github.io/mp2i-france-website/ressources/</link>
+			<pubDate>Mon, 20 Dec 2021 00:09:11 +0100</pubDate>
+			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/ressources/</guid>
+			<description>&lt;h1 id=&#34;les-ressources-utiles&#34;&gt;Les ressources utiles&lt;/h1&gt;
+&lt;p&gt;Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d&amp;rsquo;une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.&lt;/p&gt;
+&lt;h2 id=&#34;sintéresser&#34;&gt;S&amp;rsquo;intéresser&lt;/h2&gt;
+&lt;p&gt;La curiosité, la capacité d&amp;rsquo;émerveillement est une grande motivation à l&amp;rsquo;entrée en prépa scientifique. Afin de découvrir des expériences de pensées intéressantes, les ressources prennent surtout la forme de chaînes YouTube. En voici quelques unes. Cette liste n&amp;rsquo;est pas exaustive, mais c&amp;rsquo;est une bonne introduction :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mathématiques&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/3blue1brown&#34;&gt;3Blue1Brown&lt;/a&gt; (en anglais)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/ElJj42&#34;&gt;El Jj&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Informatique&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/PrimerLearning&#34;&gt;Primer&lt;/a&gt; : Simulations informatiques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mathématiques et informatique&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/Science4Allfran%C3%A7ais&#34;&gt;Science4All &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Toutes sciences&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/ScienceEtonnante&#34;&gt;ScienceEtonnante&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apprendre&#34;&gt;Apprendre&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;apprentissage de nouveaux contenus, de nouvelles méthodes voire de nouvelles disciplines est un point clé de la réussite scientifique. Les ressources à  ce sujet sont nombreuses et de grande qualité&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mathématiques&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathraining.be/&#34;&gt;Mathraining&lt;/a&gt; est initialement un site de préparation aux olympiades internationales de mathématiques. Il est donc ciblé sur des élèves du secondaire désireux d&amp;rsquo;approfondir leurs connaissances mathématiques à travers des cours, des exercices et des problèmes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Informatique&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.france-ioi.org/&#34;&gt;France-IOI&lt;/a&gt; est un site proposant à travers de nombreux exercices d&amp;rsquo;apprendre la programmation et l&amp;rsquo;algorithmique. Les exercices sont de niveau extrêmement varié et chacun pourra progresser grâce à ce site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pratiquer&#34;&gt;Pratiquer&lt;/h2&gt;
+&lt;p&gt;Les projets personnels sont primordiaux à deux points de vue. Ils permettent évidemment de mettre en œuvre les connaissances et compétences théoriques acquises, et ainsi les fixer et les assimiler. Que ce soit en informatique, en robotique, en mécanique, les projets vous permettent d&amp;rsquo;appliquer vos connaissances à vos passions.&lt;/p&gt;
+&lt;h2 id=&#34;concourir&#34;&gt;Concourir&lt;/h2&gt;
+&lt;p&gt;Les concours sont un excellement moyen de se dépasser en se questionnant sur des exercices que l&amp;rsquo;on ne sait pas toujours résoudre. C&amp;rsquo;est également l&amp;rsquo;occasion de se tester, et se mesurer aux autres participants. Enfin, la participation a des concours et, à fortiori, des bons résultats à ceux-ci représente un certain atout pour votre dossier.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mathématiques&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://maths-olympiques.fr/?cat=16&#34;&gt;Animath&lt;/a&gt;  : Concours organisé par la POFM ( Préparation Olympique Française de Mathématiques) 2 fois dans l&amp;rsquo;année. Durant 4 heures sur table, vous pourrez réfléchir sur quelques problèmes de haut  niveau.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/marathon/&#34;&gt;Marathon d&amp;rsquo;Orsay de Mathematiques&lt;/a&gt; Concours en plusieurs phases indépendantes : vous disposez de plusieurs semaines pour résoudre des problèmes mathématiques avancés.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tfjm.org/&#34;&gt;TFJM&lt;/a&gt; : Le Tournoi Français des Jeunes Mathématiciens propose de réfléchir en équipe sur des problèmes de recherche (sans solution connue), et de présenter ensuite face à d&amp;rsquo;autres équipes les résultats de ses recherches effectuées au cours de l&amp;rsquo;année.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Informatique&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://algorea.org/#/&#34;&gt;Algoréa&lt;/a&gt; : Concours annuel avec plusieurs tours,  plutôt ludique pour les premiers tours. Le tout en temps limité&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://prologin.org/&#34;&gt;Prologin&lt;/a&gt; : Concours en plusieurs tours, principalement axées sur des problèmes d&amp;rsquo;algorithmiques. S&amp;rsquo;étend sur plusieurs semaines pour le premier tour, puis en temps limité.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Toutes matières&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.education.gouv.fr/le-concours-general-des-lycees-et-des-metiers-un-prix-d-excellence-10022&#34;&gt;Concours général &lt;/a&gt;  : Concours scolaire proposé pour toutes les spécialités enseignées au lycée, épreuve en temps limité.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+		</item>
+		<item>
+			<title>Qui sommes sous ?</title>
+			<link>https://ajayat.github.io/mp2i-france-website/contact/</link>
+			<pubDate>Mon, 20 Dec 2021 00:07:53 +0100</pubDate>
+			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/contact/</guid>
+			<description>&lt;h1 id=&#34;qui-sommes-nous--et-pourquoi-créer-ce-site-&#34;&gt;Qui sommes-nous ? Et pourquoi créer ce site ?&lt;/h1&gt;
+&lt;p&gt;Nous sommes des actuellement des élèves de MP2I des quatre coins de la France. Notre objectif en créant ce site est d&amp;rsquo;aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.&lt;/p&gt;
+&lt;p&gt;Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&amp;rsquo;attendez plus, venez découvrir l&amp;rsquo;entièreté de ce site !&lt;/p&gt;
+&lt;p&gt;Vous avez tout vu mais il vous reste encore des questions ? Rejoignez notre serveur discord en &lt;a href=&#34;https://discord.gg/NXpXa29nPh&#34;&gt;cliquant ici&lt;/a&gt;
+Vous pouvez aussi contacter les élèves qui maintiennent ce site en envoyant un mail à cette adresse : &lt;a href=&#34;mailto:email@mp2i@protonmail.com&#34;&gt;mp2i@protonmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Voici une liste de représentants pour chacun des établissements proposant la formation, n&amp;rsquo;hésitez pas si vous avez des questions plus pointues !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aux Lazaristes (Lyon 5e Arrondissement - 69) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Carnot (Dijon - 21) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Champollion (Grenoble - 38) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Charles Coëffin (Baie-Malhaut - 971) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Claude Fauriel (Saint-Etienne - 42) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clemenceau (Nantes - 44) &lt;a href=&#34;mailto:corentin.boutault@gmail.com&#34;&gt;corentin.boutault@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Colbert (Tourcoing - 59) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Descartes (Tours - 37) &lt;a href=&#34;mailto:louis-max.harter@protonmail.com&#34;&gt;louis-max.harter@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Faidherbe (Lille - 59) &lt;a href=&#34;mailto:nathan.coquerel@gmail.com&#34;&gt;nathan.coquerel@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fénelon Sainte-Marie (Paris 8e Arrondissement - 75) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Franklin Roosevelt (Reims - 51) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gay-Lussac (Limoges - 87) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Henri Wallon (Valenciennes - 59) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hoche (Versailles - 78) &lt;a href=&#34;mailto:falafel.evrard@protonmail.com&#34;&gt;falafel.evrard@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;International de Valbonne (Valbonne - 06) &lt;a href=&#34;mailto:adrien.no@protonmail.com&#34;&gt;adrien.no@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Janson De Sailly (Paris 16e Arrondissement - 75) &lt;a href=&#34;mailto:corti.flavio@protonmail.com&#34;&gt;corti.flavio@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kléber (Strasbourg - 67) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le Parc (Lyon 6e Arrondissement - 69) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Louis Le Grand (Paris 5e Arrondissement - 75) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Louis Thuillier (Amiens - 80) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Montaigne (Bordeaux - 33) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paul Valery (Paris 12e Arrondissement - 75) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pierre De Fermat (Toulouse - 31) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Saint-Louis (Paris 6e Arrondissement - 75) &lt;a href=&#34;https://github.com/fusetim&#34;&gt;@FuseTim&lt;/a&gt; &amp;lt;&lt;a href=&#34;mailto:fusetim.log@gmx.com&#34;&gt;fusetim.log@gmx.com&lt;/a&gt;&amp;gt;&lt;/li&gt;
+&lt;li&gt;Thiers (Marseille 1er Arrondissement - 13) &lt;a href=&#34;mailto:camille_fabre26@protonmail.com&#34;&gt;camille_fabre26@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Victor Hugo (Besançon - 25) &lt;a href=&#34;mailto:&#34;&gt;indisponible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+		</item>
+		<item>
+			<title>La filière</title>
+			<link>https://ajayat.github.io/mp2i-france-website/mp2i/</link>
+			<pubDate>Mon, 20 Dec 2021 00:07:18 +0100</pubDate>
+			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/mp2i/</guid>
+			<description>&lt;h2 id=&#34;quelles-sont-les-fillières-pour-apprendre-linformatique-&#34;&gt;Quelles sont les fillières pour apprendre l&amp;rsquo;informatique ?&lt;/h2&gt;
+&lt;h1 id=&#34;les-bts-et-but&#34;&gt;Les BTS et BUT&lt;/h1&gt;
+&lt;p&gt;Voici un petit descriptif des différentes filières permettant de travailler dans l&amp;rsquo;informatique :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://diplomeo.com/bts&#34;&gt;Le BTS&lt;/a&gt; est une formation de deux ans proposée par des lycées.  Elle offre un enseignement très pratique et aboutit à une insertion professionnelle dès la fin de la formation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://diplomeo.com/dut&#34;&gt;Le BUT&lt;/a&gt; se fait en 3 ans (anciennement DUT en 2 ans). Cette formation se déroulant en université permet de rejoindre certaines écoles d&amp;rsquo;ingénieur, de partir en licence ou de rejoindre le milieu professionnel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://diplomeo.com/licence&#34;&gt;La licence&lt;/a&gt; est enseignée en université et se fait en 3 ans. Cette formation théorique permet de poursuivre ses études avec un Master pour un total de 5 ans.&lt;/li&gt;
+&lt;li&gt;Les écoles d&amp;rsquo;ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://diplomeo.com/prepa&#34;&gt;Les prépas&lt;/a&gt; se font en deux ans et permettent de rejoindre les écoles d&amp;rsquo;ingénieurs et les licences les plus prestigieuses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous pouvez retrouver la liste des formations en informatique &lt;a href=&#34;https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf&#34;&gt;à cette adresse&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;que-sont-les-classes-préparatoires-&#34;&gt;Que sont les classes préparatoires ?&lt;/h2&gt;
+&lt;p&gt;La prépa est une formation théorique très complète pour préparer les concours de seconde année afin de rejoindre une école d&amp;rsquo;ingénieurs.
+La formation est gratuite et elle est rattachée aux lycées, les effectifs ne dépassent pas 48 et les élèves sont très accompagnés par les professeurs.
+Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Filière&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Spécialité&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Maths&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Physique/Chimie&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Chimie&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Informatique&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;SI&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;LV1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Français&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;SVT&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;MPSI&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Mathématiques&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;MP2I&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Informatique&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PCSI&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Physique&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PTSI&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sciences industrielles&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8h30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;BCPST&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Biologie&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;le-programme-en-mp2i&#34;&gt;Le programme en MP2I&lt;/h2&gt;
+&lt;p&gt;Nous avons le même programme que les MPSI en mathématiques et physique. La seule différence et que la chimie est remplacée par de l&amp;rsquo;informatique.&lt;/p&gt;
+&lt;p&gt;Concernant l&amp;rsquo;informatique, la programmation se fait en C et en Ocaml, et on utilise quelquefois Python lors de TP de physique.
+Nous avons 2h de TP par semaine ainsi que 2h de théorie qui nous servent à étudier les algorithmes de manière formelle.
+Vous pouvez retrouver le programme complet d&amp;rsquo;informatique à &lt;a href=&#34;https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf&#34;&gt;cette adresse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Concernant les autres matières, la LV2 (2heures) ainsi que le sport sont facultatifs.
+Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !&lt;/p&gt;
+&lt;h2 id=&#34;la-spécialité-en-deuxième-année&#34;&gt;La spécialité en deuxième année&lt;/h2&gt;
+&lt;p&gt;Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
+En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
+Voici un récapitulatif des différentes filières en deuxième année :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ajayat.github.io/mp2i-france-website/images/deuxieme_annee.png&#34; alt=&#34;Spécialités en deuxième année&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l&amp;rsquo;informatique ne vous convient pas.
+Le passage en PSI est techniquement possible mais n&amp;rsquo;a pas été constaté.&lt;/p&gt;
+&lt;h2 id=&#34;la-mp2i-en-quelques-chiffres&#34;&gt;La MP2I en quelques chiffres&lt;/h2&gt;
+&lt;p&gt;Comme la MP2I vient d&amp;rsquo;ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponible.
+Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que pour la filière  MPSI.
+À noter que la filière reste toujours accessible dans certains établissements, n&amp;rsquo;hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.&lt;/p&gt;
+&lt;p&gt;Les chiffres cumulés :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nombre de places : 1048&lt;/li&gt;
+&lt;li&gt;Nombre moyen de voeux formulés par établissement : 1471&lt;/li&gt;
+&lt;li&gt;Nombre moyen de propositions d&amp;rsquo;admission envoyées : 243&lt;/li&gt;
+&lt;li&gt;Rang moyen du dernier admis : 309&lt;/li&gt;
+&lt;li&gt;Taux d&amp;rsquo;admission moyen : 24,63%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lycées avec les plus bas taux d&amp;rsquo;admission :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lycée Louis Le Grand (Paris) : 4,21%&lt;/li&gt;
+&lt;li&gt;Lycée Saint-Louis (Paris) : 6,67%&lt;/li&gt;
+&lt;li&gt;Lycée Janson de Sailly (Paris) : 7,47%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lycées avec les plus hauts taux d&amp;rsquo;admission :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lycée Charles Coeffin (Baie-Mahault) : 89,66%&lt;/li&gt;
+&lt;li&gt;Lycée Victor (Besançon) : 51,33%&lt;/li&gt;
+&lt;li&gt;Lycée Franklin Roosevelt (Reims) : 50,43%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-places-aux-concours&#34;&gt;Les places aux concours&lt;/h2&gt;
+&lt;p&gt;Il faut savoir que rien n&amp;rsquo;est encore fixé et que ce sont des engagements de minimum mais voici une petite idée des places aux concours 2023 :
+-L&amp;rsquo;X : 30 places
+-Les ENS : 30 places&lt;/p&gt;
+&lt;p&gt;-Concours Mines-ponts : minimum 75 (?)places (dont 15 pour l&amp;rsquo;ENSTA, (20 à 30)[https://www.telecom-paris.fr/fr/ingenieur/comment-integrer/admission-post-prepa] pour Telecom Paris, une dizaine pour SUPAERO)&lt;/p&gt;
+&lt;p&gt;-CCINP : au moins 200 places (dont 40 pour L&amp;rsquo;Ensimag)&lt;/p&gt;
+&lt;h2 id=&#34;les-prépas-mp2i-en-france&#34;&gt;Les prépas MP2I en France&lt;/h2&gt;
+&lt;p&gt;lien vers la carte : &lt;a href=&#34;https://www.google.com/maps/d/u/0/edit?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&amp;amp;usp=sharing&#34;&gt;Carte&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=16p1wbu1D2zOEaUUI1fBSsHmUE-ah11km&amp;hl=fr&#34; width=&#34;800&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;
+</description>
+		</item>
+		<item>
+			<title>Admission</title>
+			<link>https://ajayat.github.io/mp2i-france-website/admission/</link>
+			<pubDate>Mon, 20 Dec 2021 00:05:32 +0100</pubDate>
+			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/admission/</guid>
+			<description>&lt;h1 id=&#34;choix-des-spécialités-au-lycée&#34;&gt;Choix des spécialités au lycée&lt;/h1&gt;
+&lt;h2 id=&#34;loption-maths-expertes&#34;&gt;L&amp;rsquo;option maths expertes&lt;/h2&gt;
+&lt;p&gt;En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths experte même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.&lt;/p&gt;
+&lt;p&gt;Les cours dispensés en maths expertes se rapprochent également plus des cours de prépa que ceux de la spécialité. Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.&lt;/p&gt;
+&lt;h2 id=&#34;la-nsi-et-la-physique-chimie&#34;&gt;La NSI et la Physique-Chimie&lt;/h2&gt;
+&lt;p&gt;Hormis quelques rares exceptions, pour intégrer une classe préparatoire scientifique vous devrez avoir suivi au moins deux spécialités scientifiques en terminale, si possible trois en première mais ce n’est pas essentiel.&lt;/p&gt;
+&lt;p&gt;La MP2I se démarque de la MPSI et de la PCSI car elle repose principalement sur trois matières au lieu de deux : les mathématiques, la physique et l’informatique. Pour mettre toutes les chances de votre côté, il est donc recommandé de choisir les spécialités Physique-Chimie et NSI en classe de première pour ne pas se retrouver plus tard avec de trop grandes lacunes dans l’une ou l’autre des matières.&lt;/p&gt;
+&lt;p&gt;Une de ces deux spécialités peut être conservée au choix en terminale. La NSI reste à privilégier car le programme de physique en MP2I s’appuie sur les notions de première, même s’il est tout à fait possible de faire l’inverse.&lt;/p&gt;
+&lt;h1 id=&#34;parcoursup&#34;&gt;Parcoursup&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;La MP2I sur parcoursup&lt;/li&gt;
+&lt;li&gt;Explication de parcoursup (voeux, sous voeux, phase d&amp;rsquo;admission)&lt;/li&gt;
+&lt;li&gt;Lettres de motivation, projet de formation motivé&lt;/li&gt;
+&lt;li&gt;Lycées proposant la filière MP2I (mettre la liste des lycées avec taux d&amp;rsquo;admissions)&lt;/li&gt;
+&lt;li&gt;Les bourses&lt;/li&gt;
+&lt;li&gt;Les internats comment ça fonctionne?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lycées-proposant-la-filière-mp2i-à-lheure-actuelle&#34;&gt;Lycées proposant la filière MP2I à l&amp;rsquo;heure actuelle&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Type&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Lycée&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Ville&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Nombre de demandes&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Rang du dernier admis&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Louis Le Grand&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paris 05&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2970&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;127&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Saint-Louis&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paris 06&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3057&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;278&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paul Valéry&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paris 12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1705&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;767&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Privé&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fénelon Sainte-Marie&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paris 08&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1384&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;366&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Hoche&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Versailles&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2102&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Louis Thuillier&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Amiens&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;789&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;274&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Franklin Roosevelt&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Reims&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;702&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;393&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Henri Wallon&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Valenciennes&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;679&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Colbert&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tourcoing&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;433&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;238&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Faidherbe&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Lille&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NA&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;NA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Kléber&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Strasbourg&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1207&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;224&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Général Clemenceau&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nantes&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1837&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;229&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Descartes&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tours&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1562&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;329&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Carnot&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dijon&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1190&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;483&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Victor Hugo&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Besançon&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;750&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;401&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Gay-Lussac&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Limoges&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;664&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;254&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Montaigne&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Bordeaux&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1994&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;299&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Claude Fauriel&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Saint-Etienne&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;881&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;456&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Champollion&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Grenoble&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1672&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;269&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Le Parc&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Lyon 06&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2551&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;344&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Privé&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Aux Lazaristes&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Lyon 05&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1240&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;141&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pierre De Fermat&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Toulouse&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2234&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;285&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Thiers&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Marseille 01&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1247&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;305&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Centre International de Valbonne&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Valbonne&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;844&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;324&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Public&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Charles Coëffin&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Baie-Mahault&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;145&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;107&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+		</item>
+	</channel>
+</rss>
