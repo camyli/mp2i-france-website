@@ -1,18 +1,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bienvenue sur le site des MP2I on Prépas MP2I</title>
-		<link>https://ajayat.github.io/mp2i-france-website/</link>
+		<link>https://mp2i-france.github.io/mp2i-france-website/</link>
 		<description>Recent content in Bienvenue sur le site des MP2I on Prépas MP2I</description>
 		<generator>Hugo 0.91.0 -- gohugo.io</generator>
 		<language>fr-FR</language>
 		<copyright>MP2I — All rights reserved.</copyright>
 		<lastBuildDate>Mon, 20 Dec 2021 00:08:50 +0100</lastBuildDate>
-		<atom:link href="https://ajayat.github.io/mp2i-france-website/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://mp2i-france.github.io/mp2i-france-website/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Ressources</title>
-			<link>https://ajayat.github.io/mp2i-france-website/ressources/</link>
+			<link>https://mp2i-france.github.io/mp2i-france-website/ressources/</link>
 			<pubDate>Mon, 20 Dec 2021 00:09:11 +0100</pubDate>
-			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/ressources/</guid>
+			<guid isPermaLink="true">https://mp2i-france.github.io/mp2i-france-website/ressources/</guid>
 			<description>&lt;h1 id=&#34;les-ressources-utiles&#34;&gt;Les ressources utiles&lt;/h1&gt;
 &lt;p&gt;Les élèves désireux de poursuivre dans une classe préparatoire scientifique font généralement preuve d&amp;rsquo;une grande appétence scientifique, même hors du cadre scolaire. Pour répondre à ce besoin, de nombreuses ressources existent et sont à considérer.&lt;/p&gt;
 &lt;h2 id=&#34;sintéresser&#34;&gt;S&amp;rsquo;intéresser&lt;/h2&gt;
@@ -101,9 +101,9 @@
 		</item>
 		<item>
 			<title>Qui sommes sous ?</title>
-			<link>https://ajayat.github.io/mp2i-france-website/contact/</link>
+			<link>https://mp2i-france.github.io/mp2i-france-website/contact/</link>
 			<pubDate>Mon, 20 Dec 2021 00:07:53 +0100</pubDate>
-			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/contact/</guid>
+			<guid isPermaLink="true">https://mp2i-france.github.io/mp2i-france-website/contact/</guid>
 			<description>&lt;h1 id=&#34;qui-sommes-nous--et-pourquoi-créer-ce-site-&#34;&gt;Qui sommes-nous ? Et pourquoi créer ce site ?&lt;/h1&gt;
 &lt;p&gt;Nous sommes des actuellement des élèves de MP2I des quatre coins de la France. Notre objectif en créant ce site est d&amp;rsquo;aider les futurs bacheliers à faire leur choix concernant leur orientation, mais aussi de présenter, de notre point de vue, cette filière encore méconnue qui fait maintenant partie de notre quotidien.&lt;/p&gt;
 &lt;p&gt;Vous êtes intéressé par les prépas scientifiques et/ou par la MP2I ? N&amp;rsquo;attendez plus, venez découvrir l&amp;rsquo;entièreté de ce site !&lt;/p&gt;
@@ -142,9 +142,9 @@ Vous pouvez aussi contacter les élèves qui maintiennent ce site en envoyant un
 		</item>
 		<item>
 			<title>La filière</title>
-			<link>https://ajayat.github.io/mp2i-france-website/mp2i/</link>
+			<link>https://mp2i-france.github.io/mp2i-france-website/mp2i/</link>
 			<pubDate>Mon, 20 Dec 2021 00:07:18 +0100</pubDate>
-			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/mp2i/</guid>
+			<guid isPermaLink="true">https://mp2i-france.github.io/mp2i-france-website/mp2i/</guid>
 			<description>&lt;h2 id=&#34;quelles-sont-les-fillières-pour-apprendre-linformatique-&#34;&gt;Quelles sont les fillières pour apprendre l&amp;rsquo;informatique ?&lt;/h2&gt;
 &lt;h1 id=&#34;les-bts-et-but&#34;&gt;Les BTS et BUT&lt;/h1&gt;
 &lt;p&gt;Voici un petit descriptif des différentes filières permettant de travailler dans l&amp;rsquo;informatique :&lt;/p&gt;
@@ -249,7 +249,7 @@ Mais la plupart des élèves gardent une activité extra scolaire pour ne pas fa
 &lt;p&gt;Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
 En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
 Voici un récapitulatif des différentes filières en deuxième année :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ajayat.github.io/mp2i-france-website/images/deuxieme_annee.png&#34; alt=&#34;Spécialités en deuxième année&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mp2i-france.github.io/mp2i-france-website/images/deuxieme_annee.png&#34; alt=&#34;Spécialités en deuxième année&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l&amp;rsquo;informatique ne vous convient pas.
 Le passage en PSI est techniquement possible mais n&amp;rsquo;a pas été constaté.&lt;/p&gt;
 &lt;h2 id=&#34;la-mp2i-en-quelques-chiffres&#34;&gt;La MP2I en quelques chiffres&lt;/h2&gt;
@@ -289,9 +289,9 @@ Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que 
 		</item>
 		<item>
 			<title>Admission</title>
-			<link>https://ajayat.github.io/mp2i-france-website/admission/</link>
+			<link>https://mp2i-france.github.io/mp2i-france-website/admission/</link>
 			<pubDate>Mon, 20 Dec 2021 00:05:32 +0100</pubDate>
-			<guid isPermaLink="true">https://ajayat.github.io/mp2i-france-website/admission/</guid>
+			<guid isPermaLink="true">https://mp2i-france.github.io/mp2i-france-website/admission/</guid>
 			<description>&lt;h1 id=&#34;choix-des-spécialités-au-lycée&#34;&gt;Choix des spécialités au lycée&lt;/h1&gt;
 &lt;h2 id=&#34;loption-maths-expertes&#34;&gt;L&amp;rsquo;option maths expertes&lt;/h2&gt;
 &lt;p&gt;En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros volume horaire. Il est donc indispensable de suivre la spécialité mathématiques en première puis en terminale. En revanche, il n’est pas obligatoire de choisir l’option maths experte même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.&lt;/p&gt;
