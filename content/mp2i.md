@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## Quelles sont les fillières pour apprendre l'informatique ?
-# Les BTS et BUT
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
 
 - [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposée par des lycées.  Elle offre un enseignement très pratique et aboutit à une insertion professionnelle dès la fin de la formation.
@@ -43,16 +42,15 @@ Vous pouvez retrouver le programme complet d'informatique à [cette adresse](htt
  
 ## La spécialité en deuxième année
 Dès le second semestre, nous devons choisir une option qui conditionnera notre filière en seconde année.
-En MP2I nous avons le choix entre Info pour aller en MPI, et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
+En MP2I nous avons le choix entre informatique pour aller en MPI et S.I pour rejoindre la MP, comme le font une grande partie des élèves en MPSI.
 Voici un récapitulatif des différentes filières en deuxième année :
 
 ![Spécialités en deuxième année](/img/deuxieme_annee.png)
 
-Même si la plupart des élèves passent en MPI, il est toujours possible de passer en MP si la manière dont est abordé l'informatique ne vous convient pas.
-Le passage en PSI est techniquement possible mais n'a pas été constaté.
+Même si la voie classique consiste à passer en MPI en deuxième année, il est donc possible de passer en MP si la manière dont est abordée l'informatique ne vous convient pas (A ce stade, le gouvernement prévoit environ 20% de réorientation en MP).
 
 ## La MP2I en quelques chiffres
-Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponible.
+Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière avec peu de place disponibles.
 Les écoles les plus cotées sont donc plus difficiles à intégrer en MP2I que pour la filière  MPSI.
 À noter que la filière reste toujours accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
