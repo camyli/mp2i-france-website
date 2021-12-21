@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## Quelles sont les fillières pour apprendre l'informatique ?
-# Les BTS et BUT
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
 
 - [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposée par des lycées.  Elle offre un enseignement très pratique et aboutit à une insertion professionnelle dès la fin de la formation.
